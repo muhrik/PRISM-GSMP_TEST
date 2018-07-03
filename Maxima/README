@@ -1,7 +1,0 @@
-#instalation
-sudo apt install maxima
-sudo apt install wxmaxima
-sudo apt install xmaxima
-
-#computation via graphic interface
-wxmaxima file.wxmx
